@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nucampfinal/static/css/main.6d92b986.chunk.css",
+    "main.js": "/Nucampfinal/static/js/main.5ecaf8ba.chunk.js",
+    "main.js.map": "/Nucampfinal/static/js/main.5ecaf8ba.chunk.js.map",
+    "runtime-main.js": "/Nucampfinal/static/js/runtime-main.7f6e86f5.js",
+    "runtime-main.js.map": "/Nucampfinal/static/js/runtime-main.7f6e86f5.js.map",
+    "static/js/2.291b6e37.chunk.js": "/Nucampfinal/static/js/2.291b6e37.chunk.js",
+    "static/js/2.291b6e37.chunk.js.map": "/Nucampfinal/static/js/2.291b6e37.chunk.js.map",
+    "index.html": "/Nucampfinal/index.html",
+    "precache-manifest.a409a9c942b8051f649f5990f53c5b3b.js": "/Nucampfinal/precache-manifest.a409a9c942b8051f649f5990f53c5b3b.js",
+    "service-worker.js": "/Nucampfinal/service-worker.js",
+    "static/css/main.6d92b986.chunk.css.map": "/Nucampfinal/static/css/main.6d92b986.chunk.css.map",
+    "static/js/2.291b6e37.chunk.js.LICENSE.txt": "/Nucampfinal/static/js/2.291b6e37.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nucampfinal/static/media/seaport1.b480a060.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f6e86f5.js",
+    "static/js/2.291b6e37.chunk.js",
+    "static/css/main.6d92b986.chunk.css",
+    "static/js/main.5ecaf8ba.chunk.js"
+  ]
+}
